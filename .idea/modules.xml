@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Complete_Data_structure_and_algorithm_in_JAVA.iml" filepath="$PROJECT_DIR$/Complete_Data_structure_and_algorithm_in_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
+    </modules>
+  </component>
+</project>

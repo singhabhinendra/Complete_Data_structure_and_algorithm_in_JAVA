@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Code_34_firstlastElement {
+public class FirstLastElement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

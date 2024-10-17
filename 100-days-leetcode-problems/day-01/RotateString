@@ -1,4 +1,4 @@
-### In Java,String (basic),code 746 on leetcode ,category -easy 
+// In Java,String (basic),code 746 on leetcode ,category -easy 
 import java.util.Scanner;
 class CodeRotateString{
     public boolean rotateString(String s, String goal) {
