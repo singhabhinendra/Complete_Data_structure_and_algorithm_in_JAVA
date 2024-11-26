@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Complete_Data_structure_and_algorithm_in_JAVA.iml" filepath="$PROJECT_DIR$/Complete_Data_structure_and_algorithm_in_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashmaps/Hashmaps.iml" filepath="$PROJECT_DIR$/Hashmaps/Hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
