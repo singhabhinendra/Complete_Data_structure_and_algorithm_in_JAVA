@@ -39,6 +39,7 @@ public class AddingAVertexInAdjacencyList {
         System.out.println();
         }
     }
+
 }
 class Main1{
 public static void main(String[] args) {
