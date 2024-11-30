@@ -10,6 +10,8 @@ public class SummationOfNaturalNUmberFunctional2 {
         if (n==0) {
             return 0;
         }
-        return n+printSummation((n-1));
+        int sum;
+        sum = n+printSummation((n-1));
+        return sum;
     }
 }
