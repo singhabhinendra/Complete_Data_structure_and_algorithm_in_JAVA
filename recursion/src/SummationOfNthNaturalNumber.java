@@ -1,3 +1,4 @@
+// parameterised recursion
 import java.util.Scanner;
 public class SummationOfNthNaturalNumber {
     public static void main(String[] args){
@@ -6,11 +7,10 @@ public class SummationOfNthNaturalNumber {
         printSummation(n,0);
     }
     public static void printSummation(int n, int i){
-        if(i<1){
-            return;
+        if(n<1){
+            System.out.println(i);
+            return ;
         }
-        printSummation(i-1,i+n);
+        printSummation(n-1,i+n);
     }
-
-
 }
