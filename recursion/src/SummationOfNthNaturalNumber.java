@@ -1,4 +1,5 @@
 // parameterised recursion
+//In this mehod method,we use void return type by parameterised way.
 import java.util.Scanner;
 public class SummationOfNthNaturalNumber {
     public static void main(String[] args){
