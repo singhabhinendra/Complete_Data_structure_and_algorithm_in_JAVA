@@ -17,6 +17,7 @@ public class InsetAndMergeInterval {
         }
         return res;
     }
+
     static ArrayList<int[]> insertInterval(int[][] intervals,int[] newInterval){
         ArrayList<int[]> intervalList=new ArrayList<>(Arrays.asList(intervals));
         intervalList.add(newInterval);
