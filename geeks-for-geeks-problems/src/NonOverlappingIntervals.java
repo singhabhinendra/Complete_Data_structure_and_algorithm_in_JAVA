@@ -18,5 +18,4 @@ public class NonOverlappingIntervals {
         NonOverlappingIntervals solution = new NonOverlappingIntervals();
         System.out.println(solution.minRemoval(new int[][]{{1, 2}, {5, 10}, {18, 35}, {40, 45}}));
     }
-
 }
