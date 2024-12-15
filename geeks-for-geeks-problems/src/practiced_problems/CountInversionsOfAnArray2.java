@@ -1,4 +1,4 @@
-/*[Expected Approach] Using Merge Step of Merge Sort -O(n*logn) Time and O(n) Space:
+package practiced_problems;/*[Expected Approach] Using Merge Step of Merge Sort -O(n*logn) Time and O(n) Space:
 we can use merge sort to count the inversions in an Array.First,we divide the array into
 two halves;left half and right half.Next, We recursively count the inversions in both halves
 .While merging the two halves back together,we also count how many elements from the left half
@@ -11,7 +11,7 @@ Let's understand the above intuition in more detailed form, as we get to know th
 on the given array. Below images represents dividing and merging steps of merge sort.
 
 * */
-import java.util.Scanner;
+
 public class CountInversionsOfAnArray2 {
     static int countAndMerge(int[] arr, int l,int m,int r){
         int n1=m-l+1,n2=r-m;

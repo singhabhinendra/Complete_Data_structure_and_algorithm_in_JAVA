@@ -1,3 +1,5 @@
+package practiced_problems;
+
 import java.util.Arrays;
 public class SortAnArrayOf0s1sAnd2s {
     public int[] sort012(int[] arr) {

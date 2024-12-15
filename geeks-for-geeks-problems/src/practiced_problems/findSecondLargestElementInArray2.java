@@ -1,6 +1,6 @@
-// Time complexity for this Solution - O(n^2) + O(n) = O(n^2),i.e O(n^2)
+package practiced_problems;// Time complexity for this Solution - O(n^2) + O(n) = O(n^2),i.e O(n^2)
 // Space Complexity of this Solution - O(1)
-import java.util.Arrays;
+
 public class findSecondLargestElementInArray2 {
     public static int  findSecondLargest(int[] arr) {
         for (int i = 0; i < arr.length ; i++) {

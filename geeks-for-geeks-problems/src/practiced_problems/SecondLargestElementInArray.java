@@ -1,4 +1,4 @@
-//Time Complexity: O(n*logn), as sorting the array takes O(n*logn) time and
+package practiced_problems;//Time Complexity: O(n*logn), as sorting the array takes O(n*logn) time and
 // traversing the array
 // can take O(n) time in the worst case,
 // so total time complexity = (n*logn + n) = O(n*logn).

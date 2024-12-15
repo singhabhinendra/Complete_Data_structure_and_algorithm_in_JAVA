@@ -1,3 +1,5 @@
+package practiced_problems;
+
 //[Better Approach] Two Pass Search – O(n) Time and O(1) Space
 //
 //The approach is to traverse the array twice. In the first traversal,

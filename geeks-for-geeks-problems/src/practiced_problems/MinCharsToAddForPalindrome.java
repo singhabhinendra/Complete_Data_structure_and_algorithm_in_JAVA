@@ -1,3 +1,5 @@
+package practiced_problems;
+
 import java.util.Scanner;
 
 public class MinCharsToAddForPalindrome {

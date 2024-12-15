@@ -1,3 +1,5 @@
+package practiced_problems;
+
 /*Complexity Analysis:
     Time complexity : O(log n).
     The time complexity of binary search is O(log n)

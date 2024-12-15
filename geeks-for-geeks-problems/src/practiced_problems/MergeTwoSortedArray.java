@@ -1,3 +1,5 @@
+package practiced_problems;
+
 public class MergeTwoSortedArray {
     public void merge(int[] a,int[] b){
         for(int i=b.length-1;i>=0;i--){

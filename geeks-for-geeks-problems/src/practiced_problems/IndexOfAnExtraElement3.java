@@ -1,3 +1,5 @@
+package practiced_problems;
+
 /*Complexity Analysis:
     Time Complexity: O(n).
     Since only three traversals through the array is needed, So the time complexity is linear.

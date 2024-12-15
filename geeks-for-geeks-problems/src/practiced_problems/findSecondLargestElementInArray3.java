@@ -1,3 +1,5 @@
+package practiced_problems;
+
 public class findSecondLargestElementInArray3 {
     static int findSecondLargest(int[] nums) {
         int n=nums.length;

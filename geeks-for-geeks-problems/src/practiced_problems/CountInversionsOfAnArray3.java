@@ -1,3 +1,5 @@
+package practiced_problems;
+
 public class CountInversionsOfAnArray3 {
     static int inversionCount(int[] arr) {
         return countInv(arr, 0, arr.length - 1);

@@ -1,3 +1,5 @@
+package practiced_problems;
+
 import java.util.Arrays;
 public class NonOverlappingIntervals {
     static int minRemoval(int intervals[][]) {

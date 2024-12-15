@@ -1,4 +1,4 @@
-//This the bruteforce approach of problem Statement count Inversions of An Array in GeekforGeeks .
+package practiced_problems;//This the bruteforce approach of problem Statement count Inversions of An Array in GeekforGeeks .
 //
 import java.util.Scanner;
 

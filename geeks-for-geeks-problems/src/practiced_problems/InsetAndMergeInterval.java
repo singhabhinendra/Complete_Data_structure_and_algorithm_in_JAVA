@@ -1,3 +1,5 @@
+package practiced_problems;
+
 import java.util.ArrayList;
 import java.util.*;
 public class InsetAndMergeInterval {

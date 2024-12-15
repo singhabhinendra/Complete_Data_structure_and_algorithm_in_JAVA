@@ -1,3 +1,5 @@
+package practiced_problems;
+
 import java.util.Arrays;
 public class MergeOverlappingIntervals2 {
     static int mergeOverlap(int[][] arr){
