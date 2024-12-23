@@ -4,7 +4,7 @@ package practiced_problems;
 public class SearchInARowColumnSortedMatrix3 {
     public static void main(String[] args) {
         SearchInARowColumnSortedMatrix3 search = new SearchInARowColumnSortedMatrix3();
-        System.out.println(search.searchMatrix(new int[][] {{3, 30, 38},{20, 52, 54},{35, 60, 69}},62));
+        System.out.println(search.searchMatrix(new int[][] {{18,21,27},{20, 52, 54}},52));
     }
     public boolean searchMatrix(int[][] matrix, int target) {
         int rows = matrix.length;
