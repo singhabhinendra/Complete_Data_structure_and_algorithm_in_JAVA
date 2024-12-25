@@ -1,5 +1,4 @@
 package practiced_problems;
-
 public class SearchInARowColumnSortedMatrix {
     public static boolean matSearch(int mat[][], int x) {
         int rows = mat.length;
