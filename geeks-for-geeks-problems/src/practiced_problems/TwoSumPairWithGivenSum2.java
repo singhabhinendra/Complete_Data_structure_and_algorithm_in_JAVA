@@ -1,3 +1,16 @@
+/*Time Complexity: O(n*log(n)), for sorting the array
+Auxiliary Space: O(1)
+[Better Approach 1] Sorting and Binary Search – O(n*log(n)) time and O(1) space
+
+    We can also solve this problem using Binary Search.
+     As we know that searching element in sorted array would take O(log(n)) time.
+      We first sort the array. Then for each number arr[i] in the array, we first calculate
+      its complement (i.e., target – current number) then uses binary search to quickly check if
+       this complement exists in the subarray after index i. If we find the complement, we returns true;
+        If we never find a complement (after checking all numbers), we return false.
+
+
+*/
 package practiced_problems;
 
 import java.util.Arrays;
