@@ -1,7 +1,5 @@
 package dynamicArrays.Arraylist;
-
 import java.util.Arrays;
-
 public class Swap {
     public static void main(String[] args){
         Swap swap1 = new Swap();
