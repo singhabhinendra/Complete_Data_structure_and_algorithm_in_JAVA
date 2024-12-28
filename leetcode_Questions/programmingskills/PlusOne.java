@@ -17,7 +17,7 @@ public class PlusOne {
     }
     public static void main(String[] args) {
         PlusOne plusOne = new PlusOne();
-        System.out.println(Arrays.toString(plusOne.plusOne(new int[]{9, 8, 7, 6, 5, 4, 3, 2, 1, 0})));
+        System.out.println(Arrays.toString(plusOne.plusOne(new int[]{1,1,1,9})));
     }
 }
 
