@@ -41,4 +41,47 @@ public class TwoSumPairWithGivenSum3 {
             System.out.println("false");
         }
     }
+    /* ArrayList<Integer> result=new ArrayList<>();
+        for(int i=0;i<a.length;i++){
+            int start=0,end=a.length-1;
+            if(start<=end){
+                if(a[start]==a[end]){
+                    result.add(a[start]);
+                    start++;
+                    end--;
+                }
+            }
+        }
+        for(int j=0;j<b.length;j++){
+            int start=0,end=b.length-1;
+            if(start<=end){
+                if(b[start]==b[end]){
+                    result.add(b[start]);
+                    start++;
+                    end--;
+                }
+            }
+        }
+        return result; ArrayList<Integer> result=new ArrayList<>();
+        for(int i=0;i<a.length;i++){
+            int start=0,end=a.length-1;
+            if(start<=end){
+                if(a[start]==a[end]){
+                    result.add(a[start]);
+                    start++;
+                    end--;
+                }
+            }
+        }
+        for(int j=0;j<b.length;j++){
+            int start=0,end=b.length-1;
+            if(start<=end){
+                if(b[start]==b[end]){
+                    result.add(b[start]);
+                    start++;
+                    end--;
+                }
+            }
+        }
+        return result;*/
 }
