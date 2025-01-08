@@ -1,5 +1,11 @@
-package practiced_problems;
+/*[Naive Approach] Checking all Triplets – O(n^3) Time and O(1) Space
 
+A simple approach is to run three nested loops that select three
+different values from an array. And in the innermost loop,
+ we check for the triangle property which specifies the sum of
+any two sides must be greater than the value of the third side.
+*/
+package practiced_problems;
 public class CountPossibleTriangles {
     static int countTriangles(int[] arr){
         int res=0;
