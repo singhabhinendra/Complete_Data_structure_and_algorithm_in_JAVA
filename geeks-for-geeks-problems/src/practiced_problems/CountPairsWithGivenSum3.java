@@ -1,7 +1,6 @@
 package practiced_problems;
 import java.util.HashMap;
 import java.util.Map;
-
 public class CountPairsWithGivenSum3 {
     static int countPairs(int[] arr, int target) {
         Map<Integer,Integer> freq=new HashMap<>();
@@ -11,10 +10,8 @@ public class CountPairsWithGivenSum3 {
                 count+=freq.get(target-arr[i]);
             }
             freq.put(arr[i], freq.getOrDefault(arr[i], 0) + 1);
-
         }
         return count;
-
     }
     public static void main(String[] args) {
         CountPairsWithGivenSum3 obj = new CountPairsWithGivenSum3();
