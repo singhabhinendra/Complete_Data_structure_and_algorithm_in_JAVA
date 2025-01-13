@@ -1,0 +1,51 @@
+Character Array /ArrayList
+1-char [] arr= ['g','e','e','k','s']
+2-String class:
+String class is not immutable
+String str="geeks"
+or
+String str=new String("geeks");
+
+3-StringBuffer Class:
+Description--:
+It is thread safe class and used in multithreaded environement
+StringBuffer str=new StringBuffer("geeks");
+4-StringBuilder Class:
+Description--:
+It used only within a thread .when you create a threat safe class that involves extra over head as well that extra overheads is not in StringBuilder
+StringBuilder str=new StringBuilder ("geeks");
+
+String Class:
+
+Example :
+Class Test{
+    public static void main(String[] args){
+        String str="geeks";
+        System.out.println(str.length);
+        System.out.println(str.charAt(3);
+        System.out.println(str.substring(2);
+        System.out.println(str.substring(2,5);
+}
+}
+Ouput is:
+5
+k
+eks
+ek
+
+Example-2
+Class Test{
+    public static void main(String[] args){
+        String s1="geeks";
+        String s2="geeks";
+        if(s1==s2)
+        System.out.println("Yes");
+        else
+        System.out.println("No");
+        String s3=new String("geeks");
+        if(s1==s3)
+        System.out.println("Yes");
+        else
+        System.out.println("No");
+    }
+}
