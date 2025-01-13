@@ -2,7 +2,7 @@
 * Example 2: locked String->"0000" s="()() :Output: true:"
 //* Example 3: locked String-> s="/)" s="0":Output:false
  */
-package programmingskills;
+
 public class ChecIfAParanthesStringCanBeValid {
     public boolean canBeValid(String s,String locked){
         if(s.length()%2!=0){
