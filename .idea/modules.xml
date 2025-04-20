@@ -8,11 +8,16 @@
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics-description/basics-description.iml" filepath="$PROJECT_DIR$/basics-description/basics-description.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-framework/collections-framework.iml" filepath="$PROJECT_DIR$/collections-framework/collections-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/complete-trees/complete-trees.iml" filepath="$PROJECT_DIR$/complete-trees/complete-trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/geeks-for-geeks-problems/geeks-for-geeks-problems.iml" filepath="$PROJECT_DIR$/geeks-for-geeks-problems/geeks-for-geeks-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maths/maths.iml" filepath="$PROJECT_DIR$/maths/maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
       <module fileurl="file://$PROJECT_DIR$/subarrays/subarrays.iml" filepath="$PROJECT_DIR$/subarrays/subarrays.iml" />
     </modules>
