@@ -5,7 +5,7 @@ class TrieImplementation {
     TrieImplementation() {
         root = new Node();
     }
-
+//O(N)
     public void insert(String word) {
         Node node = root;
         for (int i = 0; i < word.length(); i++) {
@@ -17,7 +17,7 @@ class TrieImplementation {
         }
         node.setEnd();
     }
-
+//O(log(len))
     public boolean search(String word) {
         Node node = root;
         for (int i = 0; i < word.length(); i++) {
