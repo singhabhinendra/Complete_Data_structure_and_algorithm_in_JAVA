@@ -1,8 +1,12 @@
+import java.util.Arrays;
+
 public class MergeSort {
     public static void main(String[] args) {
         int[] arr1={1,4,6,8};
         int[] arr2={2,5,7,9};
         int[] arr={1,2,19,12,11,10,8,18,20};
+
+        System.out.println(Arrays.toString(mergeSort(arr1, 0, arr1.length - 1)));
 
     }
     public static int[] mergeSort(int[] arr1,int low,int hi){

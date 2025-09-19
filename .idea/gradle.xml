@@ -7,6 +7,15 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/complete-trees" />
         <option name="gradleHome" value="" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sipp-2025" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sipp-2025" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

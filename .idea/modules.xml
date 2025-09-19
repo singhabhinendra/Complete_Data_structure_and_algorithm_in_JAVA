@@ -2,24 +2,39 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Complete_Data_structure_and_algorithm_in_JAVA.iml" filepath="$PROJECT_DIR$/Complete_Data_structure_and_algorithm_in_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSAWithIntegraMinds/DSAWithIntegraMinds.iml" filepath="$PROJECT_DIR$/DSAWithIntegraMinds/DSAWithIntegraMinds.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashmaps/Hashmaps.iml" filepath="$PROJECT_DIR$/Hashmaps/Hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics-description/basics-description.iml" filepath="$PROJECT_DIR$/basics-description/basics-description.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capegemini-prep/capegemini-prep.iml" filepath="$PROJECT_DIR$/capegemini-prep/capegemini-prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cognizant-prep/cognizant-prep.iml" filepath="$PROJECT_DIR$/cognizant-prep/cognizant-prep.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-framework/collections-framework.iml" filepath="$PROJECT_DIR$/collections-framework/collections-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/complete-trees/complete-trees.iml" filepath="$PROJECT_DIR$/complete-trees/complete-trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cp/cp.iml" filepath="$PROJECT_DIR$/cp/cp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-programming/dynamic-programming.iml" filepath="$PROJECT_DIR$/dynamic-programming/dynamic-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/geeks-for-geeks-problems/geeks-for-geeks-problems.iml" filepath="$PROJECT_DIR$/geeks-for-geeks-problems/geeks-for-geeks-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackWithInfy-preparation/hackWithInfy-preparation.iml" filepath="$PROJECT_DIR$/hackWithInfy-preparation/hackWithInfy-preparation.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/maths/maths.iml" filepath="$PROJECT_DIR$/maths/maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sipp/sipp.iml" filepath="$PROJECT_DIR$/sipp/sipp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sipp-2025.iml" filepath="$PROJECT_DIR$/.idea/modules/sipp-2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sipp-2025.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sipp-2025.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sipp-2025.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sipp-2025.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
       <module fileurl="file://$PROJECT_DIR$/subarrays/subarrays.iml" filepath="$PROJECT_DIR$/subarrays/subarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-multiThreading/thread-multiThreading.iml" filepath="$PROJECT_DIR$/thread-multiThreading/thread-multiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trie/trie.iml" filepath="$PROJECT_DIR$/trie/trie.iml" />
     </modules>
   </component>
 </project>
