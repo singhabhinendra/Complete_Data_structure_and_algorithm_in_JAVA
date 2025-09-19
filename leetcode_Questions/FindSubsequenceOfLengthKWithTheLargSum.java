@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class FindSubsequenceOfLengthKWithTheLargSum {
     public static int[] maxSubsequence(int[] nums, int k) {
         int[] ans = new int[k];
@@ -7,7 +6,6 @@ public class FindSubsequenceOfLengthKWithTheLargSum {
         if (nums.length <= k) {
             return nums;
         }
-
         int[] sorted = nums.clone();
         for (int i = 0; i < sorted.length - 1; i++) {
             for (int j = 0; j < sorted.length - i - 1; j++) {
@@ -18,7 +16,6 @@ public class FindSubsequenceOfLengthKWithTheLargSum {
                 }
             }
         }
-
         Map<Integer, Integer> freq = new HashMap<>();
         for (int i = sorted.length - 1; i >= sorted.length - k; i--) {
             freq.put(sorted[i], freq.getOrDefault(sorted[i], 0) + 1);
@@ -34,7 +31,6 @@ public class FindSubsequenceOfLengthKWithTheLargSum {
                 }
             }
         }
-
         for (int i = 0; i < k; i++) {
             ans[i] = list.get(i);
         }
