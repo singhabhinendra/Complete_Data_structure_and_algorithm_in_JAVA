@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/collections-framework/collections-framework.iml" filepath="$PROJECT_DIR$/collections-framework/collections-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/complete-trees/complete-trees.iml" filepath="$PROJECT_DIR$/complete-trees/complete-trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/cp/cp.iml" filepath="$PROJECT_DIR$/cp/cp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-database-based-problems/design-database-based-problems.iml" filepath="$PROJECT_DIR$/design-database-based-problems/design-database-based-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic-programming/dynamic-programming.iml" filepath="$PROJECT_DIR$/dynamic-programming/dynamic-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/geeks-for-geeks-problems/geeks-for-geeks-problems.iml" filepath="$PROJECT_DIR$/geeks-for-geeks-problems/geeks-for-geeks-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
