@@ -11,8 +11,7 @@ public class QuickSort{
             while(arr.get(j)>pivot && j>=low+1){
                 j--;
             }
-            if(i<j){
-                int temp=arr.get(i);
+            if(i<j){int temp=arr.get(i);
                 arr.set(i,arr.get(j));
                 arr.set(j,temp);
             }
